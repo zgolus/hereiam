@@ -1,2 +1,6 @@
 language: node_js
 node_js: 0.10
+deploy:
+  provider: heroku
+  api_key: 95024fb5-de9a-44cc-8916-33a7d8de4d6d
+  app: lit-earth-8658
