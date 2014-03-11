@@ -1,4 +1,3 @@
-
 /**
  * Module dependencies.
  */
@@ -12,7 +11,7 @@ var report = require('./routes/report');
 var mongoose = require('mongoose');
 var resource = require('express-resource')
 
-mongoose.connect('mongodb://localhost/report');
+mongoose.connect(process.env.MONGOLAB_URI);
 var app = express();
 
 // all environments
