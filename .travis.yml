@@ -3,5 +3,5 @@ node_js: 0.1
 deploy:
   provider: heroku
   api_key:
-    secure: Ri3qVP11BnZRDwj5OvAoRZP2bXVFf281bAC6wzMITBz4FUfroxZ33SvHostIGssnk5L9TPpLb+4rsTHImneqM+7VW/bx8r3433VMbYBp/GdezjHYYIAQX7oBnZDnJx2DAsUM2ajt2oC6Ggi9lp66qsaCyc9VO41abMVD9ID7dD8=
+    secure: iMJUdqGK5f4Z7O2Fg3pMPpoL7iW8AsVk38oFPFq0Rcc967TN5o+ql5BwWW5HEk8swsz+BGdENpe0lLym93ICVhrrZ9q37qTBJm1rRsXsHRecxLANAF71k+cXu000Wy3z7SILmUFa++4GZXnU5IfcZndRSZ6XSfEYE2qpASiK6dc=
   app: lit-earth-8658
